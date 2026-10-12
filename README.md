@@ -1,0 +1,1 @@
+- Tuan 2: Debug, lap trinh huong doi tuong co ban (class, object, constructor, dong goi)
